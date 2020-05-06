@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "studentang": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "studentang"
+    }
+  },
+  "defaultProject": "studentang",
+  "cli": {
+    "analytics": "f5e89fca-5855-40cd-8062-3c043233f7bf"
+  }
 }
